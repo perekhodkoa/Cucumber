@@ -46,5 +46,7 @@ public class MySingleton {
         MySingleton anotherSingle1 = MySingleton.getInstance();
         anotherSingle1.testMe(3);
 
+        System.out.print(((11 & 9)^3)|12);
+
     }
 }
