@@ -1,5 +1,7 @@
-/*
-Write a program to reverse a number using numeric operations. Below example shows how to reverse a number using numeric operations. - See more at: http://www.java2novice.com/java-interview-programs/reverse-number/#sthash.HW8UrHcQ.dpuf
+/**
+ * Write a program to reverse a number using numeric operations.
+ * Below example shows how to reverse a number using numeric operations.
+ * - See more at: http://www.java2novice.com/java-interview-programs/reverse-number/#sthash.HW8UrHcQ.dpuf
  */
 import java.util.Scanner;
 

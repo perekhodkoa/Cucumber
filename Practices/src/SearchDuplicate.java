@@ -1,8 +1,8 @@
-/*
-Description:
-You have got a range of numbers between 1 to N, where one of the number is
-repeated. You need to write a program to find out the duplicate number.
-- See more at: http://www.java2novice.com/java-interview-programs/duplicate-number/#sthash.Hsq9Xvcm.dpuf
+/**
+ * Description:
+ * You have got a range of numbers between 1 to N, where one of the number is
+ * repeated. You need to write a program to find out the duplicate number.
+ * - See more at: http://www.java2novice.com/java-interview-programs/duplicate-number/#sthash.Hsq9Xvcm.dpuf
  */
 
 import java.util.List;
